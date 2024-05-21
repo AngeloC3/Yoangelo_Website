@@ -1,5 +1,5 @@
 # Yoangelo Website
-*currentlty in development
+*currentlty in development*
 
 The Yoangelo website is a platform designed to help pairs connect with each other. It is built using Express, Node, and React.
 
